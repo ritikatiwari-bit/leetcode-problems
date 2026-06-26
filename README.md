@@ -10,8 +10,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0234-palindrome-linked-list](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0234-palindrome-linked-list](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
