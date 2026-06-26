@@ -21,7 +21,7 @@ class Solution {
         int i=0,j=n-1;
 
         while(i<=j){
-            if(arr.get(i)==arr.get(j)){
+            if(arr.get(i).equals(arr.get(j))){
                 i++;
                 j--;
             }
