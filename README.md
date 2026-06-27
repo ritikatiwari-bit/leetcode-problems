@@ -24,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0234-palindrome-linked-list) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
