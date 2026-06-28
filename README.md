@@ -28,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0577-employee-bonus) |
+## Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0441-arranging-coins) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
