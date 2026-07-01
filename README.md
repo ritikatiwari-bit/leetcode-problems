@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0441-arranging-coins) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
