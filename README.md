@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/3898-find-the-degree-of-each-vertex) |
+## String
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
