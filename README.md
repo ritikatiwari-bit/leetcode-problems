@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
