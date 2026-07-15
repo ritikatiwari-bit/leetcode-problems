@@ -74,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0155-min-stack) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
