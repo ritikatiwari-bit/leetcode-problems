@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0058-length-of-last-word) |
 ## Dynamic Programming
 |  |
 | ------- |
