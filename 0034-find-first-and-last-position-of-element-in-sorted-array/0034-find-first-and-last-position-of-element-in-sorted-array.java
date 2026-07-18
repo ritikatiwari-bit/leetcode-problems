@@ -15,14 +15,7 @@ class Solution {
                 }
                 return new int[]{srt,--j}; 
             }
-            // System.out.print(" "+ i +"   ");
         }
         return new int[]{-1,-1};
     }
 }
-
-// for(int j=i;j<n;j++){
-                //     if(nums[j]!=nums[srt]){
-                //         return new int[]{srt,--j};
-                //     }
-                // }
