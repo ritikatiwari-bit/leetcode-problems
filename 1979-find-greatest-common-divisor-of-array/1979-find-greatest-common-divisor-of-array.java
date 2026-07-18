@@ -7,7 +7,7 @@ class Solution {
             if(nums[i]>max){
                 max=nums[i];
             }
-            else if(nums[i] < min){
+            if(nums[i] < min){
                 min=nums[i];
             }
         }
