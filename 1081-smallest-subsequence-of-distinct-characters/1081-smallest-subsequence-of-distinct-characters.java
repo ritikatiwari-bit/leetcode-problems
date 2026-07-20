@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public String smallestSubsequence(String s) {
         // 1. Find the last position of every character in the string
         int[] lastIndex = new int[26];
@@ -6,11 +6,13 @@ class Solution {
             lastIndex[s.charAt(i) - 'a'] = i;
         }
 
-        // 2. Start with an empty string for our final answer
-        String result = "";
+        // 2. This StringBuilder will build our final answer
+        StringBuilder result = new StringBuilder();
+        
+        // Track which characters are already inside our result
         boolean[] seen = new boolean[26];
 
-        // 3. Loop through each character of the input string
+        // 3. Loop through each character of the string
         for (int i = 0; i < s.length(); i++) {
             char curr = s.charAt(i);
 
@@ -19,26 +21,23 @@ class Solution {
                 continue;
             }
 
-            // While our answer is not empty...
-            // AND the last letter in our answer is bigger than the current letter...
-            // AND that last letter appears again later in the string...
-            while (result.length() > 0 
-                   && result.charAt(result.length() - 1) > curr 
+            // Look at the last letter we added to our result.
+            // If the last letter is alphabetically bigger than 'curr',
+            // AND we know that old letter shows up again later in the string...
+            while (result.length() > 0 && result.charAt(result.length() - 1) > curr 
                    && lastIndex[result.charAt(result.length() - 1) - 'a'] > i) {
                 
-                // Get the last character so we can mark it as "not seen anymore"
-                char lastChar = result.charAt(result.length() - 1);
-                seen[lastChar - 'a'] = false;
-                
-                // "Backspace": Remove the very last character from our string
-                result = result.substring(0, result.length() - 1);
+                // ...then remove that old letter so a better one can take its place
+                char removedChar = result.charAt(result.length() - 1);
+                seen[removedChar - 'a'] = false;
+                result.deleteCharAt(result.length() - 1);
             }
 
-            // Add the current letter to the end of our answer
-            result = result + curr;
+            // Add the current letter to our result
+            result.append(curr);
             seen[curr - 'a'] = true;
         }
 
-        return result;
+        return result.toString();
     }
 }
