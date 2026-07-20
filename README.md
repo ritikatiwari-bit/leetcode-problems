@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [1260-shift-2d-grid](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1260-shift-2d-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## String
 |  |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
