@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2485-find-the-pivot-integer](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/2485-find-the-pivot-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
@@ -138,4 +139,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0724-find-pivot-index) |
+| [2485-find-the-pivot-integer](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
