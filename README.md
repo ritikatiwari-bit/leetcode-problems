@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1046-last-stone-weight](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1046-last-stone-weight) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
