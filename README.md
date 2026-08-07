@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0724-find-pivot-index) |
+| [0896-monotonic-array](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0896-monotonic-array) |
 | [1046-last-stone-weight](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
