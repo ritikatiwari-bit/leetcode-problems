@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0190-reverse-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Number Theory
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
