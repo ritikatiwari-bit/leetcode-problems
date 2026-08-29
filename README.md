@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
