@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0152-maximum-product-subarray](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0496-next-greater-element-i) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [1260-shift-2d-grid](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1260-shift-2d-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## String
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 ## Monotonic Stack
