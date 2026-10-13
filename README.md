@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0152-maximum-product-subarray](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0189-rotate-array) |
+| [0300-longest-increasing-subsequence](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0441-arranging-coins) |
 ## Graph Theory
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1143-longest-common-subsequence) |
 ## Monotonic Stack
@@ -218,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
