@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/2210-count-hills-and-valleys-in-an-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Dynamic Programming
 |  |
 | ------- |
