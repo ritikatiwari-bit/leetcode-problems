@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3693-climbing-stairs-ii](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/3693-climbing-stairs-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1143-longest-common-subsequence) |
+| [3693-climbing-stairs-ii](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/3693-climbing-stairs-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
