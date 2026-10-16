@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0896-monotonic-array](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0896-monotonic-array) |
 | [1046-last-stone-weight](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1260-shift-2d-grid) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1143-longest-common-subsequence) |
 | [3693-climbing-stairs-ii](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/3693-climbing-stairs-ii) |
 ## Monotonic Stack
