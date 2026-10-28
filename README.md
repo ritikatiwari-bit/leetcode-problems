@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0064-minimum-path-sum) |
+| [0139-word-break](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0189-rotate-array) |
 | [0300-longest-increasing-subsequence](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0058-length-of-last-word) |
+| [0139-word-break](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1143-longest-common-subsequence) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0139-word-break) |
 | [0496-next-greater-element-i](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
 | ------- |
@@ -234,4 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
