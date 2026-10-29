@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0258-add-digits) |
 | [0441-arranging-coins](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
