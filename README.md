@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
