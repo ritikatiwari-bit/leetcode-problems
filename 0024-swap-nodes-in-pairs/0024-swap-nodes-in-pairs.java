@@ -31,7 +31,6 @@ class Solution {
             pre=curr; // for next pair of nodes
             curr=curr.next; // swap link
 
-            System.out.println(curr+"  "+pre);
         }
 
         return dummy.next;
