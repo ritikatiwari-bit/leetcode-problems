@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0207-course-schedule) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
 |  |
@@ -268,4 +269,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0139-word-break) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
