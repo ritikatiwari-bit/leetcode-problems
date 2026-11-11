@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0234-palindrome-linked-list) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 ## Database
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/ritikatiwari-bit/leetcode-problems/tree/master/0089-gray-code) |
